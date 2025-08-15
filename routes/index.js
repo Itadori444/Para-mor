@@ -1,0 +1,1 @@
+// Conteúdo de routes/index.js aqui.
